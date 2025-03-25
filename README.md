@@ -3,6 +3,8 @@
 Burak Çoban
 201104093
 
+pow() fonksiyonu kullanılması için derleme aşamasında -lm eklenmektedir
+
 lex calculator.l
 
 yacc -d calculator.y
